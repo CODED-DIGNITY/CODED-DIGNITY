@@ -19,7 +19,8 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,flstudio,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,figma,replit,discord,obsidian,vscode,github"/>
+ 
 </p>
 
 ---
