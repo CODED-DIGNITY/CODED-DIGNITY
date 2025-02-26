@@ -9,8 +9,8 @@
 ---
 
 ### 🧑‍💻 About Me  
-- 🎓 **BTech CSE Student** at SRM Ghaziabad  
-- 💡 Exploring **AI, Cybersecurity, and Software Development**  
+- 🎓 **BTech CSE Student**
+- 💡 Exploring **AI, WebDev, and Software Development**  
 - 🎬 **Content Creator** (Video Editing, Music Production, SEO)  
 - 🔥 Always learning & building cool things  
 - 🏆 **Fun Fact**: Ran a Pinterest account with **550k+ monthly views**  
@@ -26,17 +26,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSharma&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSharma&theme=radical" height="165">
-</p>
-
----
-
-### 🔗 Connect with Me
-<p align="center">
-  <a href="mailto:ads.as2020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=CODED-DIGNITY&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CODED-DIGNITY&theme=radical" height="165">
 </p>
 
 ---
