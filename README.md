@@ -1,14 +1,10 @@
-Hi there, I'm Aditya Sharma 👋
+<p align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dauto%26height%3D250%26section%3Dheader%26text%3DHi%2520There!%2520I%27m%2520[Your%20Name]&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" />
+</p>
 
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-profile/">
-<img align="left" alt="Your Name's LinkedIn" width="22px" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/npm/simple-icons%40v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.google.com/search?q=https://twitter.com/CODED_DIGNITY">
-<img align="left" alt="Your Name's Twitter" width="22px" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/npm/simple-icons%40v3/icons/twitter.svg" />
-</a>
-
-<br />
-<br />
+<p align="center">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D25%26pause%3D1000%26color%3D3399FF%26width%3D435%26lines%3DComputer%2BScience%2BStudent%3BAI%2B%2526%2BML%2BEnthusiast%3BAspiring%2BWeb%2BDeveloper%3BProblem%2BSolver" alt="Typing SVG" />
+</p>
 👨‍💻 About Me
 
 I'm a Computer Science student with a passion for Artificial Intelligence, Machine Learning, and Web Development. I enjoy solving complex problems and building things for the web.
@@ -83,7 +79,7 @@ Tools
 <p align="center">
 <img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dyour-github-username%26theme%3Dradical%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" alt="GitHub Trophies" />
 </p>
-Snake Eating My Contributions
+🐍 Snake Eating My Contributions
 
 <p align="center">
 <img src="https://www.google.com/search?q=https://github.com/your-github-username/your-github-username/raw/output/github-contribution-grid-snake.svg" alt="Snake Eating My Contributions" />
