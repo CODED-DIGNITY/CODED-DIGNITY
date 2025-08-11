@@ -1,90 +1,149 @@
-<p align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dauto%26height%3D250%26section%3Dheader%26text%3DHi%2520There!%2520I%27m%2520[Your%20Name]&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" />
-</p>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hey there, I'm [Your Name]!
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D25%26pause%3D1000%26color%3D3399FF%26width%3D435%26lines%3DComputer%2BScience%2BStudent%3BAI%2B%2526%2BML%2BEnthusiast%3BAspiring%2BWeb%2BDeveloper%3BProblem%2BSolver" alt="Typing SVG" />
-</p>
-👨‍💻 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F5&center=true&vCenter=true&random=false&width=600&lines=Python+%26+C%2B%2B+Developer;Data+Structures+Enthusiast;AI%2FML+Explorer;Frontend+Design+Lover;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+</div>
 
-I'm a Computer Science student with a passion for Artificial Intelligence, Machine Learning, and Web Development. I enjoy solving complex problems and building things for the web.
+<div align="center">
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)](https://github.com/yourusername)
+  [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=ff69b4)](https://github.com/yourusername?tab=followers)
+  [![GitHub stars](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=yellow)](https://github.com/yourusername?tab=repositories)
+  
+</div>
 
-    🌱 I’m currently diving deep into Data Structures & Algorithms using C++ and Python.
+---
 
-    🤖 Exploring the world of AI/ML with projects in Natural Language Processing and Computer Vision.
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
-    💻 Also sharpening my Front-End Development skills.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-    👯 I’m looking to collaborate on AI/ML projects or interesting web applications.
+- 🔭 Currently mastering **Data Structures & Algorithms**
+- 🌱 Deep diving into **AI/ML** and building intelligent systems
+- 💻 Crafting beautiful experiences with **Frontend Development**
+- 🎯 2025 Goals: Contribute to Open Source & Build impactful projects
+- ⚡ Fun fact: I debug with `print()` statements and I'm not ashamed
+- 🎨 Love making things that are both functional AND beautiful
 
-    💬 Ask me about Python, C++, DSA, or foundational AI/ML concepts.
+<br>
 
-    📫 How to reach me: [Your Email Address]
+## 🛠️ Tech Arsenal
 
-    😄 Pronouns: [Your Pronouns]
+<div align="center">
 
-🛠️ My Tech Stack
+### 💪 Core Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-Here are some of the technologies I'm working with:
+### 🧠 AI/ML Stack
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-Languages
-	
+### 🎨 Frontend Magic
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-AI & Machine Learning
-	
+### 🔧 Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-Frontend
-	
+</div>
 
-Tools
+---
 
+## 📊 GitHub Analytics
 
-	
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+</div>
 
-	
+---
 
+## 🏆 GitHub Trophies
 
-	
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
 
+---
 
+## 📈 Contribution Graph
 
-	
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 
+---
 
-	
+## 🎯 Current Focus
 
+<div align="center">
+  
+```mermaid
+graph LR
+    A[DSA Mastery] --> B[Problem Solving]
+    B --> C[Competitive Programming]
+    D[AI/ML Learning] --> E[Neural Networks]
+    E --> F[Deep Learning Projects]
+    G[Frontend Dev] --> H[React Projects]
+    H --> I[Full-Stack Applications]
+```
 
-	
+</div>
 
+---
 
+## 🚀 Featured Projects
 
-	
+<div align="center">
+  
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-1&theme=radical)](https://github.com/yourusername/your-repo-1)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-2&theme=radical)](https://github.com/yourusername/your-repo-2)
 
+</div>
 
-	
+---
 
+## 💬 Random Dev Quote
 
-	
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
+---
 
-🔥 My GitHub Stats
+## 🤝 Let's Connect!
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26theme%3Dradical" alt="Your GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-github-username%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" />
-</p>
-🏆 GitHub Trophies
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dyour-github-username%26theme%3Dradical%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" alt="GitHub Trophies" />
-</p>
-🐍 Snake Eating My Contributions
+</div>
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github.com/your-github-username/your-github-username/raw/output/github-contribution-grid-snake.svg" alt="Snake Eating My Contributions" />
-</p>
+---
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dyour-github-username%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="Profile views" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="Footer" />
+</div>
+
+<div align="center">
+  <b>Thanks for visiting! 😄</b><br>
+  <i>Let's build something amazing together!</i>
+</div>
