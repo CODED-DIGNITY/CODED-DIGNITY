@@ -13,7 +13,7 @@
   
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CODED-DIGNITY/Files/refs/heads/main/ezgif-36e14d604cf042.gif?token=GHSAT0AAAAAADIOLHN7IYC53IY6YEV7K4B42FBWESA">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 </div>
 
 ---
