@@ -101,46 +101,6 @@
 
 ---
 
-## 🎯 What I'm Working On
-
-```mermaid
-graph TB
-    A[🎯 Current Focus] --> B[📚 Learning DSA]
-    A --> C[🤖 Exploring ML]
-    A --> D[🌐 Building Web Apps]
-    
-    B --> E[Problem Solving]
-    B --> F[Algorithm Practice]
-    
-    C --> G[Python Libraries]
-    C --> H[Model Building]
-    
-    D --> I[React Projects]
-    D --> J[Frontend Design]
-    
-    style A fill:#DC143C,stroke:#8B0000,color:#fff
-    style B fill:#000000,stroke:#FF4444,color:#fff
-    style C fill:#8B0000,stroke:#DC143C,color:#fff
-    style D fill:#000000,stroke:#FF4444,color:#fff
-```
-
----
-
-## 📚 Current Focus
-
-<div align="center">
-
-| Area | Technology/Topic | Status |
-|------|------------------|--------|
-| 🔴 **Programming** | Data Structures & Algorithms | 🔄 Active |
-| ⚫ **AI/ML** | Machine Learning Fundamentals | 🔄 Learning |
-| 🔴 **Frontend** | React & Modern Web Dev | 🔄 Building |
-| ⚫ **Backend** | API Development | 📋 Exploring |
-
-</div>
-
-
-
 ## 📫 Let's Connect & Collaborate!
 
 <div align="center">
