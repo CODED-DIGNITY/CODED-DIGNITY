@@ -1,6 +1,6 @@
 #
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CODED-DIGNITY/Files/refs/heads/main/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e(1)_714b.gif?token=GHSAT0AAAAAADIOLHN7D626FXWHVGBTCGK42FBWYSA" width="400">
+  <img src="https://raw.githubusercontent.com/CODED-DIGNITY/Files/refs/heads/main/hello.gif?token=GHSAT0AAAAAADIOLHN7NHUV7U5R62T2ZMEK2FBW7PA" >
 </div>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hey there, I'm Aditya!
 
