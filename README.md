@@ -63,7 +63,9 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Analytics
+
+![LeetCode](https://leetcard.jacoblin.cool/lpMDB6RtaU?border=0&radius=20)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CODED-DIGNITY&show_icons=true&theme=vue&bg_color=1a1a1a&title_color=E74C3C&text_color=f8f8f2&icon_color=E74C3C&border_color=2C3E50&include_all_commits=true&count_private=true"/>
