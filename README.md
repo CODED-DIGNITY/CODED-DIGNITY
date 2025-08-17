@@ -1,6 +1,6 @@
 #
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CODED-DIGNITY/Files/refs/heads/main/hello.gif?token=GHSAT0AAAAAADIOLHN7NHUV7U5R62T2ZMEK2FBW7PA" width="250" >
+  <img src="https://raw.githubusercontent.com/CODED-DIGNITY/Files/refs/heads/main/hello.gif" width="250" >
 </div>
 
 <div align="center" margin-top="50">
