@@ -3,6 +3,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&random=false&width=600&lines=Python+%26+C%2B%2B+Developer;Data+Structures+Enthusiast;AI%2FML+Explorer;Frontend+Design+Lover;Open+Source+Contributor;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CODED-DIGNITY/Files/refs/heads/main/ezgif-36e14d604cf042.gif?token=GHSAT0AAAAAADIOLHN7IYC53IY6YEV7K4B42FBWESA">
+</div>
 
 <div align="center">
   
