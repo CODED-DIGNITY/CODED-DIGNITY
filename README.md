@@ -2,10 +2,11 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/CODED-DIGNITY/Files/refs/heads/main/hello.gif?token=GHSAT0AAAAAADIOLHN7NHUV7U5R62T2ZMEK2FBW7PA" width="250" >
 </div>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hey there, I'm Aditya!
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&random=false&width=600&lines=Python+%26+C%2B%2B+Developer;Data+Structures+Enthusiast;AI%2FML+Explorer;Frontend+Design+Lover;Open+Source+Contributor;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/demo/?font=Hacked&size=40&color=0CBBF7&center=true&vCenter=true&random=true&width=600&height=100&lines=I'm+Aditya" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hacked&weight=500&size=40&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&random=false&width=600&lines=Python+%26+C%2B%2B+Developer;Data+Structures+Enthusiast;AI%2FML+Explorer;Frontend+Design+Lover;Open+Source+Contributor;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </div>
 
 
