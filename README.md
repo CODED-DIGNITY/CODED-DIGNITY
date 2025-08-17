@@ -3,12 +3,10 @@
   <img src="https://raw.githubusercontent.com/CODED-DIGNITY/Files/refs/heads/main/hello.gif?token=GHSAT0AAAAAADIOLHN7NHUV7U5R62T2ZMEK2FBW7PA" width="250" >
 </div>
 
-
 <div align="center" margin-top="50">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Rounded+MT+Bold&size=40&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=600&lines=I'm+Aditya" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Rounded+MT+Bold&weight=500&size=40&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&random=false&width=600&lines=Python+%26+C%2B%2B+Developer;Data+Structures+Enthusiast;AI%2FML+Explorer;Frontend+Design+Lover;Open+Source+Contributor;Always+Learning;Always+Growing" alt="Typing SVG" />
 </div>
-
 
 <div align="center">
   
@@ -16,9 +14,6 @@
   [![GitHub followers](https://img.shields.io/github/followers/CODED-DIGNITY?style=flat-square&color=2C3E50&labelColor=34495E)](https://github.com/CODED-DIGNITY?tab=followers)
   [![GitHub stars](https://img.shields.io/github/stars/CODED-DIGNITY?style=flat-square&color=E74C3C&labelColor=2C3E50)](https://github.com/CODED-DIGNITY?tab=repositories)
   
-</div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 </div>
 
 ---
