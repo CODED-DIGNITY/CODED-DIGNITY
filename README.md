@@ -6,9 +6,9 @@
 
 <div align="center">
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)](https://github.com/yourusername)
-  [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=ff69b4)](https://github.com/yourusername?tab=followers)
-  [![GitHub stars](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=yellow)](https://github.com/yourusername?tab=repositories)
+  [![Profile Views](https://komarev.com/ghpvc/?username=CODED-DIGNITY&color=blueviolet&style=for-the-badge)](https://github.com/CODED-DIGNITY)
+  [![GitHub followers](https://img.shields.io/github/followers/CODED-DIGNITY?style=for-the-badge&color=ff69b4)](https://github.com/CODED-DIGNITY?tab=followers)
+  [![GitHub stars](https://img.shields.io/github/stars/CODED-DIGNITY?style=for-the-badge&color=yellow)](https://github.com/CODED-DIGNITY?tab=repositories)
   
 </div>
 
