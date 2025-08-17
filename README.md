@@ -1,14 +1,14 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hey there, I'm Aditya!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF4444&center=true&vCenter=true&random=false&width=600&lines=Python+%26+C%2B%2B+Developer;Data+Structures+Enthusiast;AI%2FML+Explorer;Frontend+Design+Lover;Open+Source+Contributor;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&random=false&width=600&lines=Python+%26+C%2B%2B+Developer;Data+Structures+Enthusiast;AI%2FML+Explorer;Frontend+Design+Lover;Open+Source+Contributor;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=CODED-DIGNITY&color=red&style=for-the-badge)](https://github.com/CODED-DIGNITY)
-  [![GitHub followers](https://img.shields.io/github/followers/CODED-DIGNITY?style=for-the-badge&color=crimson)](https://github.com/CODED-DIGNITY?tab=followers)
-  [![GitHub stars](https://img.shields.io/github/stars/CODED-DIGNITY?style=for-the-badge&color=darkred)](https://github.com/CODED-DIGNITY?tab=repositories)
+  [![Profile Views](https://komarev.com/ghpvc/?username=CODED-DIGNITY&color=E74C3C&style=flat-square)](https://github.com/CODED-DIGNITY)
+  [![GitHub followers](https://img.shields.io/github/followers/CODED-DIGNITY?style=flat-square&color=2C3E50&labelColor=34495E)](https://github.com/CODED-DIGNITY?tab=followers)
+  [![GitHub stars](https://img.shields.io/github/stars/CODED-DIGNITY?style=flat-square&color=E74C3C&labelColor=2C3E50)](https://github.com/CODED-DIGNITY?tab=repositories)
   
 </div>
 
@@ -34,26 +34,26 @@
 
 **Languages & Frameworks I'm comfortable with:**
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=red)
-![C++](https://img.shields.io/badge/C++-DC143C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=red)
-![HTML5](https://img.shields.io/badge/HTML5-B22222?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-8B0000?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Tools & Technologies I use:**
 
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=red)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-DC143C?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=red)
-![Linux](https://img.shields.io/badge/Linux-B22222?style=for-the-badge&logo=linux&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Learning & Exploring:**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-8B0000?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-DC143C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=red)
-![NumPy](https://img.shields.io/badge/NumPy-8B0000?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 </div>
 
@@ -62,28 +62,20 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CODED-DIGNITY&show_icons=true&theme=dark&bg_color=000000&title_color=FF4444&text_color=FFFFFF&icon_color=DC143C&border_color=8B0000&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODED-DIGNITY&layout=compact&langs_count=10&theme=dark&bg_color=000000&title_color=FF4444&text_color=FFFFFF&border_color=8B0000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CODED-DIGNITY&show_icons=true&theme=vue&bg_color=1a1a1a&title_color=E74C3C&text_color=f8f8f2&icon_color=E74C3C&border_color=2C3E50&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODED-DIGNITY&layout=compact&langs_count=10&theme=vue&bg_color=1a1a1a&title_color=E74C3C&text_color=f8f8f2&border_color=2C3E50"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CODED-DIGNITY&theme=dark&background=000000&ring=FF4444&fire=DC143C&currStreakLabel=FF4444&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=CCCCCC&sideLabels=FFFFFF&stroke=8B0000&border=8B0000" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CODED-DIGNITY&theme=vue-dark&background=1a1a1a&ring=E74C3C&fire=E74C3C&currStreakLabel=E74C3C&sideNums=f8f8f2&currStreakNum=f8f8f2&dates=95a5a6&sideLabels=f8f8f2&stroke=2C3E50&border=2C3E50" alt="GitHub Streak Stats" />
 </div>
 
----
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CODED-DIGNITY&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CODED-DIGNITY&theme=redical&bg_color=000000&color=FF4444&line=DC143C&point=8B0000&area_color=FF4444&title_color=FF4444&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CODED-DIGNITY&theme=react-dark&bg_color=1a1a1a&color=E74C3C&line=E74C3C&point=2C3E50&area_color=E74C3C&title_color=E74C3C&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -92,8 +84,8 @@
 
 <div align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CODED-DIGNITY&repo=machine-learning-projects&theme=dark&bg_color=000000&title_color=FF4444&text_color=FFFFFF&icon_color=DC143C&border_color=8B0000)](https://github.com/CODED-DIGNITY/machine-learning-projects)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CODED-DIGNITY&repo=dsa-solutions&theme=dark&bg_color=000000&title_color=FF4444&text_color=FFFFFF&icon_color=DC143C&border_color=8B0000)](https://github.com/CODED-DIGNITY/dsa-solutions)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CODED-DIGNITY&repo=machine-learning-projects&theme=vue&bg_color=1a1a1a&title_color=E74C3C&text_color=f8f8f2&icon_color=E74C3C&border_color=2C3E50)](https://github.com/CODED-DIGNITY/machine-learning-projects)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CODED-DIGNITY&repo=dsa-solutions&theme=vue&bg_color=1a1a1a&title_color=E74C3C&text_color=f8f8f2&icon_color=E74C3C&border_color=2C3E50)](https://github.com/CODED-DIGNITY/dsa-solutions)
 
 </div>
 
@@ -103,18 +95,18 @@
 
 ```mermaid
 graph TB
-    A[🎯 Current Focus] --> B[📚 DSA Mastery]
-    A --> C[🤖 ML Projects]
-    A --> D[🌐 Full-Stack Apps]
+    A[🎯 Current Focus] --> B[📚 Learning DSA]
+    A --> C[🤖 Exploring ML]
+    A --> D[🌐 Building Web Apps]
     
-    B --> E[LeetCode Daily]
-    B --> F[System Design]
+    B --> E[Problem Solving]
+    B --> F[Algorithm Practice]
     
-    C --> G[Computer Vision]
-    C --> H[Deep Learning]
+    C --> G[Python Libraries]
+    C --> H[Model Building]
     
     D --> I[React Projects]
-    D --> J[API Development]
+    D --> J[Frontend Design]
     
     style A fill:#DC143C,stroke:#8B0000,color:#fff
     style B fill:#000000,stroke:#FF4444,color:#fff
@@ -137,76 +129,42 @@ graph TB
 
 </div>
 
----
 
-## 🎨 Skills Proficiency
-
-<div align="center">
-
-```python
-skills = {
-    "Python": "🔴🔴🔴🔴🔴🔴🔴🔴🔴⚫ 90%",
-    "C++": "🔴🔴🔴🔴🔴🔴🔴🔴⚫⚫ 80%", 
-    "Data Structures": "🔴🔴🔴🔴🔴🔴🔴🔴⚫⚫ 85%",
-    "Machine Learning": "🔴🔴🔴🔴🔴🔴🔴⚫⚫⚫ 75%",
-    "Frontend (React)": "🔴🔴🔴🔴🔴🔴🔴⚫⚫⚫ 70%",
-    "Problem Solving": "🔴🔴🔴🔴🔴🔴🔴🔴⚫⚫ 85%",
-    "Git & Version Control": "🔴🔴🔴🔴🔴🔴🔴🔴⚫⚫ 80%"
-}
-```
-
-</div>
-
----
 
 ## 📫 Let's Connect & Collaborate!
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=red)](https://linkedin.com/in/aditya-sharma-28a017351/)
-[![Twitter](https://img.shields.io/badge/Twitter-DC143C?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CODED_DIGNITY)
-[![Gmail](https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ads.as3030@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=red)](https://leetcode.com/u/lpMDB6RtaU/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-B22222?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-sharma-28a017351/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/CODED_DIGNITY)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ads.as3030@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/lpMDB6RtaU/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
-### 🤝 Open to Opportunities
-- 💼 **Internships** in Software Development, AI/ML, or Data Science
-- 🚀 **Collaboration** on interesting open-source projects
-- 📝 **Technical Writing** and creating educational content
-- 🎤 **Speaking** at tech events and workshops
+### 🤝 Open for Collaboration
+- 💼 **Learning Opportunities** in Software Development and AI/ML
+- 🚀 **Open Source Projects** - Always interested in contributing
+- 📝 **Knowledge Sharing** through code and documentation
+- 🎤 **Community Participation** in tech discussions and events
 
 ---
 
 ## 💬 Random Dev Wisdom
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
 </div>
 
----
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Python       8 hrs 45 mins   🔴🔴🔴🔴🔴🔴🔴🔴🔴⚫⚫⚫   45.2%
-C++          4 hrs 12 mins   🔴🔴🔴🔴🔴🔴⚫⚫⚫⚫⚫⚫   21.7%
-JavaScript   3 hrs 8 mins    🔴🔴🔴🔴⚫⚫⚫⚫⚫⚫⚫⚫   16.2%
-HTML/CSS     2 hrs 1 min     🔴🔴🔴⚫⚫⚫⚫⚫⚫⚫⚫⚫   10.4%
-Others       1 hr 15 mins    🔴⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫    6.5%
-```
-<!--END_SECTION:waka-->
-
----
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=12&text=Thanks%20for%20stopping%20by!&section=header&reversal=false&animation=twinkling&textBg=false&fontColor=FFFFFF" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=150&text=Thanks%20for%20stopping%20by!&section=header&reversal=false&animation=twinkling&fontColor=f8f8f2&fontSize=35" alt="Header" />
   
   ### 🚀 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&animation=twinkling" alt="Footer" />
 </div>
 
 ---
