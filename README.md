@@ -164,7 +164,7 @@ graph TB
   
   ### 🚀 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
   
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=24&height=100&section=footer&animation=twinkling" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&animation=twinkling" alt="Footer" />
 </div>
 
 ---
