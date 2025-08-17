@@ -63,32 +63,6 @@
 
 ---
 
-## 📊 Analytics
-<div align="center">
-  
-  ![LeetCode](https://leetcard.jacoblin.cool/coded_digntiy?border=0&radius=20)
-
-</div>
-
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CODED-DIGNITY&show_icons=true&theme=vue&bg_color=1a1a1a&title_color=E74C3C&text_color=f8f8f2&icon_color=E74C3C&border_color=2C3E50&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODED-DIGNITY&layout=compact&langs_count=10&theme=vue&bg_color=1a1a1a&title_color=E74C3C&text_color=f8f8f2&border_color=2C3E50"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CODED-DIGNITY&theme=vue-dark&background=1a1a1a&ring=E74C3C&fire=E74C3C&currStreakLabel=E74C3C&sideNums=f8f8f2&currStreakNum=f8f8f2&dates=95a5a6&sideLabels=f8f8f2&stroke=2C3E50&border=2C3E50" alt="GitHub Streak Stats" />
-</div>
-
-
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CODED-DIGNITY&theme=react-dark&bg_color=1a1a1a&color=E74C3C&line=E74C3C&point=2C3E50&area_color=E74C3C&title_color=E74C3C&area=true" alt="Contribution Graph" />
-</div>
-
----
 
 ## 🚀 Projects & Repositories
 
