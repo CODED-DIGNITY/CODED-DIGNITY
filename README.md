@@ -138,7 +138,7 @@ graph LR
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Thanks%20for%20visiting&section=header&reversal=false&animation=twinkling&textBg=false" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Thanks%20for%20visiting&section=header&reversal=false&animation=twinkling&textBg=false" alt="Footer" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="Footer" />
 </div>
 
