@@ -52,13 +52,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Learning & Exploring:**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
 </div>
 
 ---
@@ -68,7 +61,7 @@
 
 <div align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CODED-DIGNITY&repo=PingPong&theme=vue&bg_color=1a1a1a&title_color=E74C3C&text_color=f8f8f2&icon_color=E74C3C&border_color=2C3E50)](https://github.com/CODED-DIGNITY/PingPong)
+[![Ping Pong Repo](https://github-readme-stats.vercel.app/api/pin/?username=CODED-DIGNITY&repo=PingPong&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=fab005&border_color=30363d)](https://github.com/CODED-DIGNITY/PingPong)
 
 </div>
 
