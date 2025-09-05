@@ -68,8 +68,7 @@
 
 <div align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CODED-DIGNITY&repo=machine-learning-projects&theme=vue&bg_color=1a1a1a&title_color=E74C3C&text_color=f8f8f2&icon_color=E74C3C&border_color=2C3E50)](https://github.com/CODED-DIGNITY/machine-learning-projects)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CODED-DIGNITY&repo=dsa-solutions&theme=vue&bg_color=1a1a1a&title_color=E74C3C&text_color=f8f8f2&icon_color=E74C3C&border_color=2C3E50)](https://github.com/CODED-DIGNITY/dsa-solutions)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CODED-DIGNITY&repo=machine-learning-projects&theme=vue&bg_color=1a1a1a&title_color=E74C3C&text_color=f8f8f2&icon_color=E74C3C&border_color=2C3E50)](https://github.com/CODED-DIGNITY/PingPong)
 
 </div>
 
