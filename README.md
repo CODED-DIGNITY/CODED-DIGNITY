@@ -27,7 +27,6 @@
 - 💻 Building web applications with **React** and modern frontend technologies
 - 🎯 **2025 Goals**: Contribute to Open Source projects & Build impactful applications
 - ⚡ **Fun fact**: I debug with `console.log()` and `print()` statements and I'm not ashamed
-- 🌍 **Location**: Muradnagar, Uttar Pradesh, India
 - 💬 **Ask me about**: Python, C++, DSA, Machine Learning, or Frontend Development
 
 <br clear="right"/>
