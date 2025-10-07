@@ -1,9 +1,4 @@
-#
-<style>
-  body{
-    background: linear-gradient(to bottom, hsl(0, 50%, 0%) 25%, hsla(0, 100%, 50%, 0.2) ) no-repeat fixed;
-  }
-</style>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/CODED-DIGNITY/Files/refs/heads/main/hello.gif" width="250" >
 </div>
