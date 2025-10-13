@@ -41,7 +41,7 @@
 ## 🚀 Projects & Repositories
 
 <div align="center">
-  LMAO TEST
+
 [![Ping Pong Repo](https://github-readme-stats.vercel.app/api/pin/?username=CODED-DIGNITY&repo=PingPong&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=fab005&border_color=30363d)](https://github.com/CODED-DIGNITY/PingPong)
 
 </div>
