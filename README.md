@@ -1,56 +1,37 @@
 <div align="center">
-  <img src="img/hello.gif" width="250" >
-</div>
-
-<div align="center" margin-top="50">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Rounded+MT+Bold&weight=500&size=40&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&random=false&width=600&lines=Python+%26+C%2B%2B+Developer;Data+Structures+Enthusiast;AI%2FML+Explorer;Frontend+Design+Lover;Open+Source+Contributor;Always+Learning;Always+Growing" alt="Typing SVG" />
-</div>
-
-<div align="center">
+  <img src="img/hello.gif" width="150" />
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=CODED-DIGNITY&color=E74C3C&style=flat-square)](https://github.com/CODED-DIGNITY)
-  [![GitHub followers](https://img.shields.io/github/followers/CODED-DIGNITY?style=flat-square&color=2C3E50&labelColor=34495E)](https://github.com/CODED-DIGNITY?tab=followers)
-  [![GitHub stars](https://img.shields.io/github/stars/CODED-DIGNITY?style=flat-square&color=E74C3C&labelColor=2C3E50)](https://github.com/CODED-DIGNITY?tab=repositories)
-  
+  <br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&width=500&lines=Python+%26+C%2B%2B+Developer;Building+The+Future;Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
 </div>
 
-<br clear="right"/>
-
-## 💻 Technologies I Work With
+<br/>
 
 <div align="center">
-
-**Languages & Frameworks I'm comfortable with**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Tools & Technologies I use**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CODED-DIGNITY/CODED-DIGNITY/blob/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/CODED-DIGNITY/CODED-DIGNITY/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/CODED-DIGNITY/CODED-DIGNITY/blob/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-## 🚀 Projects & Repositories
+<br/>
 
 <div align="center">
-
-[![Ping Pong Repo](https://github-readme-stats.vercel.app/api/pin/?username=CODED-DIGNITY&repo=PingPong&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=fab005&border_color=30363d)](https://github.com/CODED-DIGNITY/PingPong)
-
+  <h3>🛠 Toolkit</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,git,vscode,linux&theme=dark" />
+  </a>
 </div>
 
-## 📫 Let's Connect & Collaborate!
+<br/>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-sharma-28a017351/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/CODED_DIGNITY)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ads.as3030@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/coded_digntiy/)
----
+<div align="center"> 
+  <a href="https://linkedin.com/in/aditya-sharma-28a017351/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+  <a href="https://twitter.com/CODED_DIGNITY" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" /></a>
+  <a href="mailto:ads.as3030@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+  <a href="https://leetcode.com/u/coded_digntiy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" target="_blank" /></a>
 </div>
