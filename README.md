@@ -21,6 +21,12 @@
 <br/>
 
 <div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</div>
+
+<br/>
+
+<div align="center">
   <h3>🛠 Toolkit</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,git,vscode,linux&theme=dark" />
