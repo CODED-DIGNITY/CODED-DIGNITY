@@ -21,17 +21,23 @@
 <br/>
 
 <div align="center">
-  <h3>🛠 Toolkit</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,git,vscode,linux&theme=dark" />
-  </a>
+  <h3>Web Tools</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,vercel&theme=dark" />
+
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=js,py,cpp&theme=dark" />
+
+  <h3>Runtime</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+
 </div>
 
 <br/>
+<br/>
 
 <div align="center"> 
-  <a href="https://linkedin.com/in/aditya-sharma-28a017351/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+  <a href="https://linkedin.com/in/adityasharmahere/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
   <a href="https://twitter.com/CODED_DIGNITY" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" /></a>
   <a href="mailto:ads.as3030@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
-  <a href="https://leetcode.com/u/coded_digntiy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" target="_blank" /></a>
+  <a href="https://leetcode.com/u/coded_digntiy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" /></a>
 </div>
