@@ -21,14 +21,15 @@
 <br/>
 
 <div align="center">
-  <code>System</code><br>
-  <img src="https://skillicons.dev/icons?i=arch&theme=dark" /><br>
-  <code>Web Tools</code><br>
-  <img src="https://skillicons.dev/icons?i=react,threejs&theme=dark" /><br>
-  <code>Core Languages</code><br>
+  System<br>
+  <img src="https://skillicons.dev/icons?i=arch&theme=dark" /><br><br>
+  Web Tools<br>
+  <img src="https://skillicons.dev/icons?i=react,threejs&theme=dark" /><br><br>
+  Core Languages<br>
   <img src="https://skillicons.dev/icons?i=cpp,js,py&theme=dark" />
 </div>
 
+<br/>
 <br/>
 
 <div align="center"> 
