@@ -1,11 +1,17 @@
 <div align="center">
-  <img src="img/hello.gif" width="150" />
-  
-  <br/>
 
+  <p align="center">
+    <img src="img/nyx.svg" alt="NYXLUMEN" />
+  </p>
+  
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=500&color=2ea44f&center=true&vCenter=true&width=600&lines=std::cout+%3C%3C+%22Hello+World%22%3B;while(coding)+%7B+create();+%7D;%3Cdiv%3E+Exploring+the+Web+%3C%2Fdiv%3E;exploring.event_horizon(AI)%3B" alt="Typing SVG" />
   </a>
+
+  <br/>
+
+  <img src="img/hello.gif" width="130" />
+
 </div>
 
 <br/>
